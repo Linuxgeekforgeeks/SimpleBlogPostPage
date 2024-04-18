@@ -1,0 +1,28 @@
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+  }
+
+  header .select{
+    display: flex;
+    gap: 2rem;
+  }
+  header .select>select>option{
+    padding: 4px;
+    height: 2rem;
+  }
+  
+  h1 {
+    margin: 0;
+    font-size: 24px;
+    text-align: center;
+  }
+  

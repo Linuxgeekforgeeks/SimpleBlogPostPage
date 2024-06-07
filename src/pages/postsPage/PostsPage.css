@@ -1,0 +1,36 @@
+.postspage header{
+    background-color: black;
+    color: white;
+    padding: 2rem 0;
+}
+.postspage header>h1{
+    text-align: center;
+}
+.postspage .selection{
+    display: flex;
+    gap: 2rem;
+}
+.selection label{
+    font-size: 1.5rem;
+}
+.selection select{
+    padding:.4rem;
+}
+
+.postspage main{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.pegination {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+.pegination span{
+    margin-bottom: 2rem;
+}
+.pegination button{
+    padding: .4rem 1rem;
+    margin-bottom: 2rem;
+}

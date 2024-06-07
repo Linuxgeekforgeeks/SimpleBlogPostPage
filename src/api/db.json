@@ -42,12 +42,8 @@
       "title": "Lorem Ipsum",
       "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
       "category": "Technology"
-    },
-    {
-      "id": 8,
-      "title": "Dolor Sit Amet",
-      "content": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      "category": "Science"
     }
   ]
 }
+
+

@@ -1,0 +1,20 @@
+.comment {
+    border-bottom: 1px solid #eee;
+    padding: 10px 0;
+    background-color: #f9f9f9;
+    margin-bottom: 10px;
+    border-radius: 8px;
+  }
+  
+  .comment p {
+    margin: 0;
+    font-size: 1em;
+    color: #555;
+  }
+  
+  .timestamp {
+    font-size: 0.8em;
+    color: #777;
+    margin-top: 5px;
+  }
+  
